@@ -1,0 +1,12 @@
+{
+  "name": "twowayslider",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "androidx.appcompat:appcompat": "1.5.1",
+    "com.google.android.material:material": "1.7.0",
+    "junit:junit": "4.13.2",
+    "androidx.test.ext:junit": "1.1.4",
+    "androidx.test.espresso:espresso-core": "3.5.0"
+  }
+}

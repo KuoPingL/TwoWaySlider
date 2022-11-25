@@ -3,7 +3,16 @@ plugins {
 }
 
 android {
+    /**
+     * The namespace is purely a developer-facing property of the library.
+     * It has nothing to do with the application’s identity that is set using the applicationId property.
+     */
+    namespace = 'com.kpl.library'
     compileSdk 33
+
+    testFixtures {
+        enable = true
+    }
 
     defaultConfig {
         minSdk 16

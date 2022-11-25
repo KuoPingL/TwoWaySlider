@@ -1,4 +1,6 @@
 # Two Way Slider
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+
 <figure>
 <center>
 <img src = "two_way_slider.png" style="width:80%"/>
