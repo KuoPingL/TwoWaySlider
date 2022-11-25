@@ -1,5 +1,5 @@
 # Two Way Slider
-![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/kuopingl/twowayslider)[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/kuopingl/twowayslider) [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 <figure>
 <center>
 <img src = "two_way_slider.png" style="width:80%"/>
@@ -8,7 +8,7 @@
 </figure>
 
 This is a sample code that goes with the article on **View Customization**.
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kuopingll" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/kuopingll" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Add Dependency
 Inside settings.gradle
